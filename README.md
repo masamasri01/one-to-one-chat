@@ -1,4 +1,4 @@
-# chat_one_to_one
+# chat one to one using Flutter & Firebase
 
 A new Flutter project.
 
